@@ -6,6 +6,6 @@ target 'lg-Objective' do
   # use_frameworks!
 
   # Pods for lg-Objective
-  pod 'Networking'
+  pod 'AFNetworking'
   pod 'JSONModel'
 end
