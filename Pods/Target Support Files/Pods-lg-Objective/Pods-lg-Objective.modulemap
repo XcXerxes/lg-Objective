@@ -1,0 +1,6 @@
+module Pods_lg_Objective {
+  umbrella header "Pods-lg-Objective-umbrella.h"
+
+  export *
+  module * { export * }
+}

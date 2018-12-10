@@ -1,0 +1,20 @@
+PODS:
+  - JSONModel (1.8.0)
+  - Networking (4.3.0)
+
+DEPENDENCIES:
+  - JSONModel
+  - Networking
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - JSONModel
+    - Networking
+
+SPEC CHECKSUMS:
+  JSONModel: 02ab723958366a3fd27da57ea2af2113658762e9
+  Networking: fc17d65fdcde838c2cc087ff30e38757cb6c47d7
+
+PODFILE CHECKSUM: edb2a488a0cd4b22ba6271e0b46522097ce59209
+
+COCOAPODS: 1.5.3
